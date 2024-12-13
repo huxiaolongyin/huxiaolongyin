@@ -18,7 +18,7 @@
 
 #### Backend Technologies
 
-![Backend Technologies](https://skillicons.dev/icons?i=fastapi,docker,django,flask,nginx,)
+![Backend Technologies](https://skillicons.dev/icons?i=fastapi,django,flask)
 
 #### Database & Tools
 
