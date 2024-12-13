@@ -5,24 +5,25 @@
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=huxiaolongyin&show_icons=true&theme=cobalt)
 
 ## Skills
+🥪 **Front End** / 🥗 **Backend** / 🍊 **Big Data** / 🍑 **Machine Learning** / 🎃**LLMs & RAG**
 
-#### Programming Languages
+#### 🍪Programming Languages
 ![Languages](https://skillicons.dev/icons?i=py,js)
 
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=vue,html,css,tailwind,ts)
+#### 🥣Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=html,js,css,ts,vue,tailwind,pnpm)
 
-#### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=fastapi,docker,django,flask,nginx,pytorch&perline=3)](https://skillicons.dev)
+#### 🌰Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=fastapi,docker,django,flask,nginx,pytorch)
 
-#### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,oracle)
+#### 🍏 Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,sqlite,redis)
 
-#### Big Data
-![Big Data](https://skillicons.dev/icons?i=mysql,oracle,clickhouse,kafka)
+#### 🍉 Big Data
+**Flume** / **HDFS** / **HIVE** / **Spark** / **Flink** / **Doris** / **ClickHouse**
 
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,githubactions,gitlab)
+#### 🔨 Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=figma,git,github,gitlab,markdown,vscode,anaconda,nginx,docker)
 
 
 
